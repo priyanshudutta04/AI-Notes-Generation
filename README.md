@@ -1,5 +1,5 @@
 # AI Notes Generation
-AI notes generation from large pdfs using Hugging Face Transformers
+AI-Driven Notes Generation from Extensive PDFs Using Hugging Face Transformers
 <br>
 
 ## About
